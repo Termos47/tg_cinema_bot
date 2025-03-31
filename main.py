@@ -2,8 +2,8 @@ import logging
 from aiogram import Bot, Dispatcher, executor, types
 
 # Настройки
-API_TOKEN = '7914747184:AAGrMX61goPxd-K8UkE7uYapQ7Pg7-dDHX8'  # Замените на ваш токен
-WEB_APP_URL = 'https://example.com'  # Замените на URL вашего веб-приложения
+API_TOKEN = ''  # Замените на ваш токен
+WEB_APP_URL = ''  # Замените на URL вашего веб-приложения
 
 # Инициализация бота и диспетчера
 logging.basicConfig(level=logging.INFO)
